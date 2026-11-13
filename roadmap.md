@@ -1,0 +1,4 @@
+- [ ] Make sign-out easy to find and reliable from Settings and the app menu.
+- [ ] Make Settings loading, saving, and saved preferences reliable and visible.
+- [ ] Add a confirmed delete action for diary entries, including associated private photos.
+- [ ] Verify the updated flows and check the latest build status.
